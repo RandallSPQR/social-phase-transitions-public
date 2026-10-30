@@ -1,0 +1,24 @@
+{
+ "pack": "original-history-885b39bfa7bea3cd68221db8d96cb7fb31158406.pack",
+ "objects": 2704,
+ "blobs_omitted": 154,
+ "omitted_paths": [
+  "papers/",
+  "results/llm/cache/"
+ ],
+ "commits_omitted": {
+  "5e990d78f2363933163b604dc0a85d7ff07b3a23": "root commit created by GitHub; carries a personal email"
+ },
+ "shallow": [
+  "23471e72af42f166dc11c506ad25e5092f47faca",
+  "feb9b59035def3e7e03af71b8725c3bd15b2b64e"
+ ],
+ "refs": {
+  "refs/heads/claude/peaceful-fermi-hz11cv": "3a26daf8c5e6c72fe37ec1e5490653701b668280",
+  "refs/heads/claude/quirky-sagan-yq76qm": "2d015cb04e13f845cc53d820d69508daff2b2018",
+  "refs/heads/main": "23471e72af42f166dc11c506ad25e5092f47faca",
+  "refs/remotes/origin/claude/peaceful-fermi-hz11cv": "3a26daf8c5e6c72fe37ec1e5490653701b668280",
+  "refs/remotes/origin/claude/quirky-sagan-yq76qm": "ef2e5302ad835bb53d7498d76b0e2c1e851339db",
+  "refs/remotes/origin/main": "23471e72af42f166dc11c506ad25e5092f47faca"
+ }
+}
